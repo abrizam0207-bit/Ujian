@@ -1,4 +1,8 @@
-
+body{
+    background-color: #F0ECEC;
+    margin: 0;
+    padding: 0;
+}
 .container{
     display: flex;
     flex-direction: row;
@@ -19,5 +23,6 @@ h1{
 .oi p{
     font-size: 20px;
 }
+
 
 
