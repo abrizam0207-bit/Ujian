@@ -12,7 +12,11 @@ h1{
         color: #333;
         font-family: Arial, Helvetica, sans-serif;
 }
-p{
+.yoi p{
+    font-size: 20px;
+    color: #626263;
+}
+.oi p{
     font-size: 20px;
 }
 
