@@ -1,0 +1,19 @@
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.knn{
+    margin: 312px 96px 12px 6%;
+}
+h1{
+        font-size: 48px;
+        color: #333;
+        font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-size: 20px;
+}
+
+
